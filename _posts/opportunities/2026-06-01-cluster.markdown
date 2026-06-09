@@ -1,12 +1,13 @@
 ---
 layout: opportunity
 title: Multiple positions in computational hydrology
-date: 2026-06-10
+date: 2026-06-01
 author: Martyn Clark
 img: martyn_painter_fortress.JPG
 thumb: emojiCrowd_forWeb.jpg
 categories:
 - opportunity
+- news
 tags_xxx:
 - Postdoc opportunity
 position: PhD student or Postdoctoral fellow
@@ -20,7 +21,7 @@ social:
   url: "david.barrett@ucalgary.ca"
 ---
 
-## new positions in Computational Hydrology at the University of Calgary, Canada
+## New positions in Computational Hydrology at the University of Calgary, Canada
 
 We are seeking multiple highly motivated PhD students and postdoctoral fellows across several new projects in computational hydrology coordinated by Prof. Martyn Clark and Prof. Alain Pietroniro. These are full-time 4-year positions (PhD students) and 2-year positions (postdoctoral fellows). The focus of the work is flexible and can be tailored to suit the skills and interests of the successful candidates. Because of the computational focus of the work, a strong background in hydrological modelling, scientific software development, or high-performance computing is required. The desired qualifications and skills for PhD students and postdoctoral scholars are defined at the end of this announcement.
 
