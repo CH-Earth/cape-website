@@ -1,0 +1,27 @@
+---
+layout: product
+title: sedHydro
+name: sedHydro
+date: 2026-01-01 # don't change - this is used for sorting only
+author: Arman Haddachi
+categories:
+- group_models
+img: alaska.jpg
+description: A temporal multi-fraction erosion and sediment transport model 
+availability:
+- icon: github 
+  url: "https://github.com/CH-Earth/"
+documentation: Forthcoming 
+collaborators:
+- name: Martyn Clark
+  institution: University of Saskatchewan
+  status: active
+---
+
+#### Description
+
+sedHydro is ...
+
+#### Publications
+
+Forthcoming ...
