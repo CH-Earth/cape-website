@@ -34,7 +34,7 @@ positions_held:
 - position: Team Lead, Hydro-Climate Group 
   employer: Institute for Energy, Environment and Sustainable Communities, University of Regina 
   location: Regina, Saskatchewan, CANADA 
-  period: 2024 
+  period: 2024-2025
 - position: Guest Lecturer, ENEV 803 Water Resource Management 
   employer: University of Regina 
   location: Regina, Saskatchewan, CANADA 
