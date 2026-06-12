@@ -7,7 +7,7 @@ author: Nicolás Vásquez
 categories:
 - current_member
 img: nv.jpg
-position: Postdoctoral Associate in Hydrology
+position: Postdoctoral Associate
 social:
 - title: envelope 
   url: "mailto:nicolas.vasquez@ucalgary.ca"
