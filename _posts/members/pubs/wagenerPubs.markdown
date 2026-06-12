@@ -1,0 +1,1 @@
+Wagener, P., Knoben, W. J. M., Schütze, N., & Spieler, D. (2025). Metrics that Matter: Objective Functions and Their Impact on Signature Representation in Conceptual Hydrological Models (preprint). [doi: 10.5194/egusphere-2025-5413](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-5413/)
