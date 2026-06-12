@@ -23,13 +23,13 @@ education:
   degree: MSc
   year: 2023
 - school: Pontificia Universidad Catolica de Chile
-  location: Santiago de Chile
+  location: Santiago, Chile
   program: Geography
   degree: BSc
   year: 2020
 positions_held: #TODO
 - position: Consultant
-  employer: Multiple water resources projects 
+  employer: Multiple projects in water resources 
   location: Santiago, Chile
   period: 2019-2021
 ---
