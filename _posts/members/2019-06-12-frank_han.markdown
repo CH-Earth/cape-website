@@ -6,7 +6,7 @@ date: 1971-02-15 # don't change - this is used for sorting only
 author: Frank Han
 categories:
 - current_member
-img: frank_forWeb.jpg
+img: frank_han.jpg
 position: Research Associate, University of Calgary  
 social:
 - title: envelope #use for email address
