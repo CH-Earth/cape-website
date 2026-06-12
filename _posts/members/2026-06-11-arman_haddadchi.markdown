@@ -6,7 +6,7 @@ date: 1980-04-01 # don't change - this is used for sorting only
 author: Arman Haddadchi
 categories:
 - current_member
-img: arman_haddadchi1.jpeg
+img: arman_haddadchi2.jpeg
 position: Senior Research Associate
 social:
 - title: envelope
