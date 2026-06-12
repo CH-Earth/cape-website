@@ -8,7 +8,7 @@ author: Ghazal Jalali
 categories:
   - current_member
 
-img: ghazal_jalali.jpeg
+img: ghazal_jalali.jpg
 position: Postdoctoral Associate
 
 social:
