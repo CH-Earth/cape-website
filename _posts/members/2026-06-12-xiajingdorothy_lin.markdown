@@ -6,7 +6,7 @@ date: 1971-02-15 # don't change - this is used for sorting only
 author: Xiajing (Dorothy) Lin 
 categories: 
 - current_member 
-img: dorothylin_banff_1181*1772.jpg 
+img: dorothylin_banff_final.jpg 
 position: Research Associate 
 social: 
 - title: envelope #use for email address 
