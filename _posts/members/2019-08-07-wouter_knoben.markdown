@@ -7,10 +7,10 @@ author: Wouter Knoben
 categories:
 - current_member
 img: wouter_forWeb.jpg
-position: Research Associate, Centre for Hydrology, Coldwater Laboratory 
+position: Senior Research Associate in Computational Hydrology
 social:
 - title: envelope #use for email address
-  url: "mailto:wouter.knoben@usask.ca"
+  url: "mailto:wouter.knoben@ucalgary.ca"
 education:
 - school: University of Bristol
   location: Bristol, United Kingdom
@@ -28,18 +28,22 @@ education:
   degree: BSc
   year: 2011
 positions_held:
+- position: Senior Research Associate
+  employer: University of Calgary
+  location: Calgary, Alberta, CANADA
+  period: 2023-present
+- position: Research Associate
+  employer: University of Saskatchewan
+  location: Canmore, Alberta, CANADA
+  period: 2021-2023
 - position: Postdoctoral Fellow
   employer: University of Saskatchewan
   location: Canmore, Alberta, CANADA
   period: 2019-2021
-- position: Research Associate
-  employer: University of Saskatchewan
-  location: Canmore, Alberta, CANADA
-  period: 2021-present
 ---
 
 ### Short Bio
-Wouter is a Research Associate at the University of Saskatchewan at Canmore, and ex board member of both the Young Hydrologic Society and the AGU Hydrology Section Student Subcommittee. Wouter’s research focuses in four main areas: (i) using knowledge from experimental basins to improve continental domain models; (ii) model structure uncertainty, realism and benchmarking; (iii) hydrologic similarity; and (iv) reproducibility and transparency of hydrologic science. Wouter has published his work in leading international journals, including Water Resources Research, Geoscientific Model Development, Hydrology and Earth System Sciences and International Journal of Climatology.
+Wouter Knoben is a Senior Research Associate at the University of Calgary. He holds a PhD in hydrology and works on understanding where, why, and under which conditions hydrological models perform well. His research includes hydroclimatic classification, model development, and comparative model evaluation, with the goal of strengthening the theoretical foundations of large-scale hydrologic predictions. He contributes to the community as an Associate Editor for Water Resources Research, and as a developer of multiple open-source modeling tools.
 
 ### Publications
 {% include_relative pubs/knobenPubs.markdown %}
