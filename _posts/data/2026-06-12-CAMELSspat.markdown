@@ -6,8 +6,8 @@ date: 2021-07-01 # don't change - this is used for sorting only
 author: Wouter Knoben
 categories:
 - group_datasets
-img: camels-spat-img.png
-description: Catchment Attributes and MEteorology for Large-Sample SPATially distributed analysis (CAMELS-SPAT): Streamflow observations, forcing data and geospatial data for hydrologic studies across North America
+img: camel-spat-img.png
+description: CAMELS-SPAT --- Catchment Attributes and MEteorology for Large-Sample SPATially distributed analysis 
 availability:
 - icon: download 
   url: "https://doi.org/10.20383/103.01306"
