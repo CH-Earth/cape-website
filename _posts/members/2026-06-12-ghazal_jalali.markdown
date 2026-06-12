@@ -41,3 +41,7 @@ positions_held:
 ## Short Bio
 
 Dr. Ghazal Jalali is a Postdoctoral Associate in the Computational Hydrology Group at the University of Calgary. Her research focuses on computational hydrology, water quality, environmental modeling, machine learning, and sustainable water resources management. She completed her Ph.D. in Civil Engineering (Water Resources) at the University of Calgary, where she studied nutrient dynamics and pollutant removal in bioretention systems. Her work integrates environmental data, process-based modeling, and machine learning to improve hydrological prediction and advance computational tools for water resources research and management.
+
+## Publications
+
+{% include_relative pubs/ghazalPubs.markdown %}
