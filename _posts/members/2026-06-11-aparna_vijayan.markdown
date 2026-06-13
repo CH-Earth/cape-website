@@ -2,7 +2,7 @@
 layout: member
 title: Aparna Vijayan
 name: Aparna Vijayan
-date: 1971-10-15 # don't change - this is used for sorting only
+date: 1972-10-15 # don't change - this is used for sorting only
 author: Kaitlyn Murgatroyd
 categories:
 - current_member

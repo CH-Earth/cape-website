@@ -1,13 +1,13 @@
 ---
 layout: member
 title: Professor Alain Pietroniro
-name: Professor ALain Pietroniro
-date: 1961-12-19 # don't change - this is used for sorting only
+name: Professor Alain Pietroniro
+date: 1971-12-19 # don't change - this is used for sorting only
 author: Alain Pietroniro
 categories:
 - current_member
-img: martyn_canmore.jpg
-position: Canada Research Chair in Sustainable Wtaer Systems
+img: AlainPrague.jpg
+position: Canada Research Chair in Sustainable Water Systems
 social:
 - title: envelope #use for email address
   url: "mailto:alain.pietroniro@ucalgary.ca"
@@ -23,7 +23,7 @@ education:
   degree: MSc
   year: 1988
 positions_held:
-- position: Canada Research Chair in Sustainable Wtaer Systems
+- position: Canada Research Chair in Sustainable Water Systems
   employer: Schulich School of Engineering, Civil Engineering Department, University of Calgary
   location: Calgary, Alberta, CANADA
   period: 2021-present
