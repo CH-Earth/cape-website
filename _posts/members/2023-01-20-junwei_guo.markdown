@@ -2,7 +2,7 @@
 layout: member
 title: Dr. Junwei Guo
 name: Dr. Junwei Guo
-date: 1971-02-15 # don't change - this is used for sorting only
+date: 2023-01-20 # don't change - this is used for sorting only
 author: Junwei Guo
 categories:
 - current_member

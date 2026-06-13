@@ -1,0 +1,48 @@
+---
+layout: member
+title: Dr. Frank Han
+name: Dr. Frank Han
+date: 2023-02-01 # don't change - this is used for sorting only
+author: Frank Han
+categories:
+- current_member
+img: frank_han.jpg
+position: Research Associate in Computational Hydrology 
+social:
+- title: envelope #use for email address
+  url: "mailto:frank.han1@ucalgary.ca"
+education:
+- school: Texas Tech University
+  location: Lubbock, TX, USA
+  program: Civil Engineering
+  degree: PhD
+  year: 2016
+positions_held:
+- position: Research Associate
+  employer: Civil Engineering Department, University of Calgary
+  location: Calgary, AB, Canada
+  period: 10/2025-present
+- position: Physical Scientist
+  employer: Environment and Climate Change Canada
+  location: Edmonton, AB, Canada
+  period: 10/2024-07/2025
+- position: Water Quality Modeler
+  employer: WSP in Canada
+  location: Edmonton, AB, Canada
+  period: 06/2022-11/2022
+- position: Postdoc Fellow 
+  employer: University of Alberta 
+  location: Edmonton, AB, Canada
+  period: 02/2020-12/2021
+- position: Research Fellow 
+  employer: ORISE Fellow hosted by U.S. Environmental Protection Agency 
+  location: Athens, GA, USA
+  period: 10/2016-07/2019
+---
+
+### Short Bio
+
+Frank Han is a Research Associate at the University of Calgary. He is an environmental modeler, programmer, and chemist. His research focuses on the development of open-source numerical models and scientific software. His aspiration is to develop powerful, comprehensive, and also easy-to-use hydrological and water quality modeling tools that can support research, decision-making, and environmental management.
+
+### Publications
+{% include_relative pubs/hanPubs.markdown %}

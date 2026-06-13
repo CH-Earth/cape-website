@@ -512,3 +512,8 @@ a.anchor{
     top: -80px;
     visibility: hidden;
 }
+
+.row.centered {
+    display: flex;
+    flex-wrap: wrap;
+}

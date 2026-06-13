@@ -2,7 +2,7 @@
 layout: member
 title: Dr. Anagha Peringiyil
 name: Dr. Anagha Peringiyil
-date: 2026-06-12 # don't change - this is used for sorting only
+date: 2024-08-01 # don't change - this is used for sorting only
 author: Anagha Peringiyil
 categories:
 - current_member
@@ -37,7 +37,7 @@ positions_held:
   employer: Subex
   location: Bangalore, India
   period: 2019-2020
-
+---
 
 ### Short Bio
 

@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Shadi Hatami
 name: Dr. Shadi Hatami
-date: 1980-04-01 # don't change - this is used for sorting only
+date: 2023-02-15 # don't change - this is used for sorting only
 author: Shadi Hatami
 categories:
 - current_member
 img: Shadi_forWeb.jpeg
-position: Research Associate
+position: Research Associate in Computational Hydrology
 social:
 - title: envelope
   url: "mailto:shadi.hatamimajoumer@ucalgary.ca"
