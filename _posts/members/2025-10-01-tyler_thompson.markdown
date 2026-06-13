@@ -2,12 +2,12 @@
 layout: member
 title: Tyler Thompson
 name: Tyler Thompson
-date: 1990-04-16 # don't change - this is used for sorting only
+date: 2025-10-01 # don't change - this is used for sorting only
 author: Tyler Thompson
 categories:
 - current_member
 img: tyler_forWeb.jpg
-position: MSc Student, University of Calgary
+position: MSc Student, Civil Engineering, University of Calgary
 social:
 - title: envelope #use for email address
   url: "mailto:tyler.thompson@ucalgary.ca"

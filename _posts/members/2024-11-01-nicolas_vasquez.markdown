@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Nicolás Vásquez
 name: Nicolás Vásquez
-date: 2026-06-12 
+date: 2024-11-01 # do not change, used for sorting 
 author: Nicolás Vásquez
 categories:
 - current_member
 img: nv.jpg
-position: Postdoctoral Associate
+position: Postdoctoral Research Associate in Computational Hydrology
 social:
 - title: envelope 
   url: "mailto:nicolas.vasquez@ucalgary.ca"

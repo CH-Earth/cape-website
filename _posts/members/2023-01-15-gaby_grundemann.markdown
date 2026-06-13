@@ -1,13 +1,13 @@
 ﻿---
 layout: member
 title: Gaby Gründemann
-name: Gaby Gründemann, MSc
-date: 1991-04-01 # don't change - this is used for sorting only
+name: Gaby Gründemann
+date: 2023-01-15 # don't change - this is used for sorting only
 author: Gaby Gründemann
 categories:
 - current_member
 img: gaby_forWeb.jpg
-position: Visiting PhD Candidate, Centre for Hydrology, Coldwater Laboratory 
+position: Research Associate in Computational Hydrology 
 social:
 - title: envelope #use for email address
   url: "mailto:g.j.gruendemann@tudelft.nl"

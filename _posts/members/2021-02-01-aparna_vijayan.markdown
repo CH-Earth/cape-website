@@ -2,12 +2,12 @@
 layout: member
 title: Aparna Vijayan
 name: Aparna Vijayan
-date: 1972-10-15 # don't change - this is used for sorting only
+date: 2021-02-01 # don't change - this is used for sorting only
 author: Kaitlyn Murgatroyd
 categories:
 - current_member
 img: Aparna_profile.jpg
-position: Research Program Administrator with CAPE
+position: Research Program Administrator and Operations Coordinator
 social:
 - title: envelope #use for email address
   url: "mailto:aparna.vijayan@ucalgary.ca"

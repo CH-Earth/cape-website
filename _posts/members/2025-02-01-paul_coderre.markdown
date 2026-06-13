@@ -2,12 +2,12 @@
 layout: member
 title: Paul Coderre
 name: Paul Coderre
-date: 1990-04-16 # don't change - this is used for sorting only
+date: 2025-02-01 # don't change - this is used for sorting only
 author: Paul Coderre
 categories:
 - current_member
 img: paul_toWeb.jpg
-position: PhD Candidate, University of Calgary
+position: PhD Candidate, Civil Engineering, University of Calgary
 social:
 - title: envelope #use for email address
   url: "mailto:paul.coderre@ucalgary.ca"

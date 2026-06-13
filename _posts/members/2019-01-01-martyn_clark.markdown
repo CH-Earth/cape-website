@@ -2,7 +2,7 @@
 layout: member
 title: Professor Martyn Clark
 name: Professor Martyn Clark
-date: 1971-02-15 # don't change - this is used for sorting only
+date: 2019-01-01 # don't change - this is used for sorting only
 author: Martyn Clark
 categories:
 - current_member

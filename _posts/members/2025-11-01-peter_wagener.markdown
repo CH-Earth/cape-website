@@ -2,12 +2,12 @@
 layout: member
 title: Peter Wagener
 name: Peter Wagener
-date: 1990-06-01 # don't change - this is used for sorting only
+date: 2025-11-01 # don't change - this is used for sorting only
 author: Peter Wagener
 categories:
 - current_member
 img: peter_wagener.jpg
-position: PhD Candidate
+position: PhD Candidate, Civil Engineering, University of Calgary
 social:
 - title: envelope #use for email address
   url: "mailto:peter.wagener@ucalgary.ca"

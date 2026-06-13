@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Arman Haddadchi
 name: Dr. Arman Haddadchi
-date: 1980-04-01 # don't change - this is used for sorting only
+date: 2023-01-25 # don't change - this is used for sorting only
 author: Arman Haddadchi
 categories:
 - current_member
 img: arman_haddadchi2.jpeg
-position: Senior Research Associate
+position: Senior Research Associate in Computational Hydrology
 social:
 - title: envelope
   url: "mailto:arman.haddadchi@ucalgary.ca"
