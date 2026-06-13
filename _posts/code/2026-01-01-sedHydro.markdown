@@ -6,7 +6,7 @@ date: 2026-01-01 # don't change - this is used for sorting only
 author: Arman Haddadchi
 categories:
 - group_models
-img: mizuRouteSchematic.jpg
+img: sedHydroscheme1.jpg
 description: A temporal multi-fraction erosion and sediment transport model 
 availability:
 - icon: github 
