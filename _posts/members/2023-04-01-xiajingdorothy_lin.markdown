@@ -2,12 +2,12 @@
 layout: member 
 title: Dr. Xiajing (Dorothy) Lin 
 name: Dr. Xiajing (Dorothy) Lin 
-date: 2024-01-01 # don't change - this is used for sorting only 
+date: 2023-04-01 # don't change - this is used for sorting only 
 author: Xiajing (Dorothy) Lin 
 categories: 
 - current_member 
 img: dorothylin_banff_final.jpg 
-position: Research Associate 
+position: Research Associate in Computational Hydrology 
 social: 
 - title: envelope #use for email address 
   url: "mailto:xiajingdorothy.lin@ucalgary.ca" 

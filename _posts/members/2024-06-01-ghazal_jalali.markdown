@@ -2,14 +2,14 @@
 layout: member
 title: Dr. Ghazal Jalali
 name: Dr. Ghazal Jalali
-date: 1980-04-01 # don't change - this is used for sorting only
+date: 2024-06-01 # don't change - this is used for sorting only
 author: Ghazal Jalali
 
 categories:
   - current_member
 
 img: ghazal_jalali.jpg
-position: Postdoctoral Associate
+position: Postdoctoral Research Associate in Computational Hydrology
 
 social:
   - title: envelope

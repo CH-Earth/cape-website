@@ -2,12 +2,12 @@
 layout: member
 title: Ignacio Aguirre, M.Sc.
 name: Ignacio Aguirre
-date: 1990-04-16 # don't change - this is used for sorting only
+date: 2025-01-01 # don't change - this is used for sorting only
 author: Ignacio Aguirre
 categories:
 - current_member
 img: ignacio_toWeb.jpg
-position: PhD Candidate, University of Calgary
+position: PhD Candidate, Civil Engineering, University of Calgary
 social:
 - title: envelope #use for email address
   url: "mailto:ignacio.aguirre@ucalgary.ca"

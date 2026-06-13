@@ -2,15 +2,15 @@
 layout: member
 title: Dave Casson, P.Eng., M.Sc.
 name: Dave Casson
-date: 1990-04-15 # don't change - this is used for sorting only
+date: 2025-01-15 # don't change - this is used for sorting only
 author: Dave Casson
 categories:
 - current_member
 img: dave_forWeb.jpg
-position: PhD Candidate, Centre for Hydrology, Coldwater Laboratory 
+position: PhD Candidate, Civil Engineering, University of Calgary
 social:
 - title: envelope #use for email address
-  url: "mailto:drc858@usask.ca"
+  url: "mailto:david.casson@ucalgary.ca"
 education:
 - school: UNESCO-IHE
   location: Delft, Netherlands

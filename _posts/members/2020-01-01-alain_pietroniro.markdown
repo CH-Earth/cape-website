@@ -2,11 +2,11 @@
 layout: member
 title: Professor Alain Pietroniro
 name: Professor Alain Pietroniro
-date: 1971-12-19 # don't change - this is used for sorting only
+date: 2020-01-01 # don't change - this is used for sorting only
 author: Alain Pietroniro
 categories:
 - current_member
-img: AlainPrague.jpg
+img: missing_member.jpg
 position: Canada Research Chair in Sustainable Water Systems
 social:
 - title: envelope #use for email address

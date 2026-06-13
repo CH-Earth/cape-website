@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Ashley Van Beusekom
 name: Dr. Ashley Van Beusekom
-date: 1980-04-01 # don't change - this is used for sorting only
+date: 2023-10-01 # don't change - this is used for sorting only
 author: Kaitlyn Murgatroyd
 categories:
 - current_member
 img: Ashley_pic.jpg
-position: Research Associate,    Numerical Analyst 
+position: Research Associate in Computational Hydrology; Numerical Analyst 
 social:
 - title: envelope #use for email address
   url: "mailto:ashley.vanbeusekom@ucalgary.ca"

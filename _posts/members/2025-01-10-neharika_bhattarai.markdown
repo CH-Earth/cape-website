@@ -2,12 +2,12 @@
 layout: member
 title: Neharika Bhattarai
 name: Neharika Bhattarai, M.Tech
-date: 2026-06-12 # don't change - this is used for sorting only
+date: 2025-01-10 # don't change - this is used for sorting only
 author: Neharika Bhattarai
 categories:
 - current_member
 img: neharika_forWeb.jpg
-position: Visiting PhD Candidate, University of Calgary
+position: Visiting PhD Candidate, Civil Engineering, University of Calgary
 social:
 - title: envelope #use for email address
   url: "mailto:neharika.bhattarai@ucalgary.ca"
