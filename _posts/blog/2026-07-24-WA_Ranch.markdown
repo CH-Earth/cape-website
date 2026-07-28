@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'WA Ranches Visit'
+date: 2026-07-28
+author: Kaitlyn Murgatroyd
+categories:
+- blog
+img: Ranch_group.jpeg
+thumb: Ranch_thumb.jpg
+---
+
+Last Thursday, several lab members visited WA Ranches, located approximately 25 minutes Northwest of Calgary. [WA Ranches](https://vet.ucalgary.ca/wa-ranches) is a cattle ranch that was gifted to the University of Calgary in 2018 and is now being used as a teaching and research facility by several faculties including Veterinary Medicine, Science, and Engineering. 
+Terri Whitehead led a tour of the ranch and showed some of Al’s and [Erin Nicholls’](https://profiles.ucalgary.ca/erin-nicholls) hydrologic monitoring equipment, including a rain gauge, a soil moisture and temperature probe, and an eddy covariance tower. 
+
+<p align="center">
+ <img src="{{ '/assets/img/Ranch_tower.jpg' | relative_url }}" 
+alt="Left: Rain gauge and soil moisture and temperature probe, Right: Eddy covariance tower" 
+style="max-width:700px; width:100%;"> 
+</p> 
+<p align="center"><em>Left: rain gauge and soil moisture and temperature probe, Right: Eddy covariance tower .</em></p>
+
+<p align="center">
+ <img src="{{ '/assets/img/Ranch_tower2.jpg' | relative_url }}" 
+alt="outstanding in the field " 
+style="max-width:700px; width:100%;"> 
+</p> 
+<p align="center"><em>Outstanding with the eddy covariance tower.</em></p>
+
+There were also presentations from Ed Pajor (WA Ranches Director), Chris Spence (Environment and Climate Change Canada), Cathy Ryan (Earth, Energy, and Environment, UCalgary), Brandi Newton (Alberta Environment and Protected Areas), and Karen Orsel (Veterinary Medicine, UCalgary).
+
+<p align="center">
+ <img src="{{ '/assets/img/Ranch_pres.jpg' | relative_url }}" 
+alt="Brandi Newton presenting about water quality monitoring networks in Alberta. " 
+style="max-width:700px; width:100%;"> 
+</p> 
+<p align="center"><em>Brandi Newton presenting about water quality monitoring in Alberta.</em></p>
+
+It was a wonderful day trip with a great tour, presentations, and lunch!
