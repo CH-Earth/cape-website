@@ -9,7 +9,9 @@ img: climbing1.jpg
 thumb: climbing1.jpg
 ---
 
-As a send off for Wouter and Diana, some folks went climbing at the Calgary Climbing Centre and had Mexican food at Blanco Cantina. All the best to Wouter and Diana on their new adventures in Germany!
+The team had a great send off for Wouter and Diana's move to Germany. Wouter has been with the team for seven years, starting with Martyn at the University of Saskatchewan Coldwater Laboratory in Canmore, and then moving with Martyn to the University of Calgary in 2023 and Diana had an "Eyes High" fellowship at the University of Calgary for the past two years working with Tricia Stadnyk.
+
+Wouter and Diana are both moving onto an exciting new chapter in their careers. Wouter will take up a position with Dr. Thorsten Wagener at Universität Potsdam to advance research in global hydrology. Diana will be starting a 3-year "Eigene Stelle" fellowship from the German Research Foundation at the University of Dresden to advance understanding of model structural uncertainty. While we will miss them both dearly, we're excited for their new opportunities. We look forward to continued collaboration!
 
 <p align="center">
  <img src="{{ '/assets/img/climbing2.jpeg' | relative_url }}" 
